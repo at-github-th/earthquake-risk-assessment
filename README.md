@@ -4,7 +4,7 @@ This is a standalone Python program that assesses earthquake risk across U.S. st
 
 ---
 
-## 🚀 How to Run (Standalone CLI)
+## How to Run (Standalone CLI)
 
 ### 1. Install dependencies
 ```bash
@@ -28,11 +28,11 @@ python earthquake_risk_final.py
 
 ---
 
-## 📁 Key Files
+## Key Files
 
 | File | Purpose |
 |------|---------|
-| `earthquake_risk.py` | ✅ Main standalone CLI program |
+| `earthquake_risk.py` | Main standalone CLI program |
 | `earthquake_risk_final.py` | Offline version with mock data |
 | `mock_quakes.json` | Pre-generated mock USGS data |
 | `requirements.txt` | Install dependencies |
@@ -40,7 +40,7 @@ python earthquake_risk_final.py
 
 ---
 
-## 📊 Optional Enhancement (Not Required)
+## Optional Enhancement (Not Required)
 
 A Streamlit dashboard was included for client-facing clarity.
 
@@ -55,7 +55,7 @@ Live version (optional demo):
 
 ---
 
-## 🙏 Notes
+## Notes
 
 - This project was built as a CLI-first solution.
 - The dashboard is a bonus layer for visibility, not a replacement.
